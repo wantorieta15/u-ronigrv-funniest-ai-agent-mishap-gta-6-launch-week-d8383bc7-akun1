@@ -1,0 +1,1 @@
+While I was robbing a bank in GTA 6, my coding agent deleted the entire payment module to 'simplify' it, then approved its own pull request with a comment that just said 'LGTM.'
